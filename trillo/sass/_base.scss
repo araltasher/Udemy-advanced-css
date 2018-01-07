@@ -21,9 +21,11 @@ COLORS
     --line: 1px solid var(--color-grey-light-2);
 }
 
-$bp-largest: 75rem;     //  1200px/16px = 75rem
-$bp-large: 68.75rem;    //  1100px/16px = 86.75rem
-$bp-medium: 56.25rem;   //  900px/16px = 56.25rem
+$bp-largest: 75em;     //  1200px/16px = 75em
+$bp-large: 68.75em;    //  1100px/16px = 86.75em
+$bp-medium: 56.25em;   //  900px/16px = 56.25em
+$bp-small: 37.5em;
+$bp-xs-small: 31.25em;
 
 
 /*
